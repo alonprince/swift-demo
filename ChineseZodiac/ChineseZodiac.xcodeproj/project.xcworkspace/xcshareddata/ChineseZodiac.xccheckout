@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FB00D70-A89E-42F7-B7A9-10F52B2E414B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChineseZodiac</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3602766717164612A3F5B919B2CB7ECA31A7AEA4</key>
+		<string>github.com:alonprince/swift-demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChineseZodiac/ChineseZodiac.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3602766717164612A3F5B919B2CB7ECA31A7AEA4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:alonprince/swift-demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3602766717164612A3F5B919B2CB7ECA31A7AEA4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3602766717164612A3F5B919B2CB7ECA31A7AEA4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift-demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
